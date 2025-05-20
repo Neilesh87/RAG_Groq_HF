@@ -17,7 +17,7 @@ load_dotenv()
 #os.environ['OPENAI_API_KEY']=os.getenv("OPENAI_API_KEY")
 #os.environ['GROQ_API_KEY']=os.getenv("GROQ_API_KEY")
 #groq_api_key=os.getenv("GROQ_API_KEY")
-groq_api_key="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"
+groq_api_key=""
 
 ## If you do not have open AI key use the below Huggingface embedding
 #os.environ['HF_TOKEN']=os.getenv("HF_TOKEN")
